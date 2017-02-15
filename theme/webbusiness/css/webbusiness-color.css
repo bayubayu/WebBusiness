@@ -1,0 +1,392 @@
+/* ==|== styles for colors =====================================================
+   Author: Bayu Rizaldhan Rayes
+			http://www.bayubayu.com
+   ========================================================================== */
+
+a:hover,
+.with-color a:hover,
+#footer ul li a:hover
+ {
+    color: /*@LinkHover*/#fff;
+}
+h2,h3,h4,h5,h6,
+#featured-services h3,
+#featured-services .act,
+#blog-featured .entry-title a,
+h1.entry-title {
+	color:/*@Heading*/#fff;
+}
+
+
+.comments-link a {
+    color: /*@Link2*/#dedede;
+}
+
+body,
+#featured-services p,
+#content,
+#secondary-content {
+    color: /*@TextContent*/#B2B2B2;
+}
+
+a {
+    color: /*@Link*/#94bb01;
+}
+
+#site-description,
+.entry-meta,
+#footer,
+.field-group input,
+.field-group select,
+.field-group textarea {
+    color: /*@TextContent2*/#797979;
+}
+
+#footer a,
+#footer ul li a {
+    color: /*@FooterLink*/#afafaf;
+}
+
+#featured-services li {
+    background: /*@MarketingBg*/#2a2e2e;
+}
+
+#main,
+#subscription,
+.widget-area #footer4 .widget {
+    background: /*@Footer4Widget*/#161c1c;
+}
+
+#main {
+	background: url(../img/main-bg.png) repeat-x top;
+	background-color:/*@MainBg*/#161c1c;  
+}
+
+.ie6 #main {
+	background-image:none;
+}
+
+
+#top-menu-container {
+    background: /*@TopMenuBg*/#222;
+	color:/*@TopMenu*/#dedede;
+}
+
+#top-menu-container a {
+	color:/*@TopMenuLink*/#94BB01;
+}	
+#top-menu-container a:hover {
+	color:/*@TopMenuLinkHover*/#fff;
+}
+
+#search-top {
+	background: /*@SearchTopBg*/#363636;	
+	border-bottom: solid 1px;
+	border-bottom-color:/*@BlockquoteBorder*/#272A2A;
+}
+
+
+.package .pricing-table {
+    background: /*@PricingTableBg*/#454040;
+}
+
+#main-menu-container,
+.package .pricing-table td {
+    background: /*@MarketingBg2*/#454545;
+}
+
+#main-menu-container {
+	box-shadow: 0px 3px 9px 0px rgba(0,0,0,0.7);
+}
+
+
+body,
+#copyright {
+    background: /*@CopyrightBg*/#000;
+}
+
+#footer,
+pre {
+	background: /*@FooterBg*/#080A0A;
+}
+
+#featured-services h3 {
+    background: /*@MarketingTitleBg*/#999900;
+}
+
+#featured-services .act,
+.comments-link,
+.post .tags a,
+.featured .block,
+.widget-area .featured .widget,
+#comments .comment-entry,
+.package,
+.post .author-info,
+.package .features {
+    background: /*@MainBg2*/#272A2A;
+}
+
+#featured-logos {
+    background: /*@FeaturedBarBg*/#1F2424;
+}
+
+#featured-services .act,
+.package .description {
+    background: /*@MarketingBg2*/#363636;
+}
+
+#featured-services .act a,
+.package .act a {
+    background-color: /*@MarketingBg3*/#A16800;
+}
+
+.color1,
+#comments .comment-author .fn span,
+.package h2 {
+    background: /*@BoxColor1Bg*/#0066cc;
+	color:/*@BoxColor1*/#b2b2b2;
+}
+
+.color1 a {
+	color:/*@BoxColor1Link*/#A6D3FF;
+}
+
+.color2 {
+    background: /*@BoxColor2Bg*/#454912;
+	color:/*@BoxColor2*/#b2b2b2;
+}
+
+.color2 a {
+	color:/*@BoxColor2Link*/#94bb01;
+}
+
+
+.color3 {
+    background: /*@BoxColor3Bg*/#1F2424;
+	color:/*@BoxColor3*/#b2b2b2;
+}
+
+.color3 a {
+	color:/*@BoxColor3Link*/#94bb01;
+}
+
+#banner-prev a,#banner-next a {
+	background-color:/*@ButtonBg*/#DE9100;
+}
+#banner-pager a {
+	background-color:/*@ButtonBg*/#DE9100;
+}
+#banner-pager a.activeSlide {
+	background-color:/*@LinkHover*/#fff;
+}
+#featured-services p,
+#featured-services .act,
+.package .description {
+    border-top: solid 1px;
+	border-top-color: /*@MarketingBorder*/#636363;
+}
+
+#main .package .pricing-table td,
+#main .package .pricing-table th {
+    border-bottom: solid 1px;
+	border-bottom-color: /*@PricingTableBorder*/#797979;
+}
+
+#featured-services h3 {
+    border-top: solid 1px;
+	border-top-color: /*@MarketingTitleBorder*/#c7c773;
+}
+
+#subscription,
+.widget-area #footer4 .widget {
+    padding: 15px
+}
+
+#copyright {
+    border-top: solid 1px;
+	border-top-color: /*@CopyrightBorder*/#161C1C;
+}
+
+.color1,
+.package h2 {
+    border-top: solid 1px; 
+	border-top-color: /*@BoxColor1Border*/#5c9dde;
+}
+
+.color2 {
+    border-top: solid 1px;
+	border-top-color: /*@BoxColor2Border*/#616557;
+}
+
+.post .author-info,
+#featured-logos {
+    border-top: solid 1px;
+	border-top-color:/*@BlockquoteBorder*/#272A2A;
+}
+
+/*.package .features,*/
+#subscription,
+.widget-area #footer4 .widget,
+#main blockquote {
+    border: solid 1px; 
+	border-color: /*@BlockquoteBorder*/#272A2A;
+}
+
+#main blockquote {
+    border-width: 1px 0
+}
+
+#top-menu-container,
+.package h2 {
+    border-bottom: solid 1px;
+	border-bottom-color: /*@TopMenuBorder*/#272A2A;
+;
+}
+
+.package .features li {
+    border-bottom: solid 1px;
+	border-bottom-color: /*@PricingTableBorder2*/#363636;
+}
+
+.featured-package {
+    border: solid 1px #999
+}
+
+.post .tags {
+    
+}
+
+.field-group .textbox,
+.field-group select,
+.field-group textarea {
+    border: solid 1px;
+	border-color: /*@FormFieldBorder*/#dedede;
+}
+
+#header {
+	background-color:/*@HeaderBg*/#161C1C;
+}
+.ie6 #header {
+	background-image:none;
+}
+
+#nav #main-menu li,
+#main-menu-container {
+    background: url(../img/nav-bg.png);
+	background-color: /*@NavBg*/#4F4F4F; 
+}
+
+#featured-services p.description {
+    background-repeat: no-repeat;
+    background-position: 12px 12px;
+}
+
+#featured-services .act a,
+.package .act a, input.submit, input.button,
+.field-group .button,
+#commentform p #submit {
+    background:  url(../img/button-bg.png) repeat-x top left;
+	background-color: /*@ButtonBg*/#DE9100;
+	color: /*@Button*/#000;
+}
+
+#blog-featured li {
+    background: url(../img/featured-blog-bg.png) repeat-x bottom
+}
+
+.post, .attachment {
+    background: url(../img/featured-blog-bg.png) repeat-x bottom
+}
+
+ul.checklist {
+    list-style-image: url(../img/check-bullet.png)
+}
+
+
+.wp-caption {
+	border: 1px solid;
+	border-color: /*@ContentBorder*/#363636;
+	
+}
+
+#main table, #main table th, #main table td {
+	border-color:/*@ContentBorder*/#363636;
+	
+}
+
+#site-title a,
+#site-description {
+		color:/*@Nav*/#fff;
+	
+}
+	#site-description {
+		color:/*@NavHover*/#ababab;
+	}
+
+@media only screen and (min-width: 480px) { 
+
+
+	#nav #main-menu {
+		background:url(../img/nav-sep.png) repeat-y top left;
+	}
+	
+	#nav #main-menu a {
+		color:/*@Nav*/#fff;
+	}
+	#nav #main-menu a:hover {
+		color:/*@NavHover*/#ababab;
+	}
+	
+	#nav #main-menu .sub-menu,
+	#nav #main-menu .children {
+	    background: /*@SubNavBg*/#272A2A;
+	    border-top: solid 1px;
+		border-top-color: /*@SubNavBorderTop*/#797979;
+	    border-bottom: solid 1px;
+		border-bottom-color: /*@SubNavBorderBottom*/#000;
+	}
+
+	.modern #nav #main-menu .current_page_item, 
+	.modern #nav #main-menu .current_page_ancestor,
+	.gtie6 #nav #main-menu .current_page_item, 
+	.gtie6 #nav #main-menu .current_page_ancestor,
+	.ie6 #nav #main-menu .current_page_item a { 
+		background:url(../img/nav-active-bg.png) no-repeat right center; 
+		background-color:/*@NavActiveBg*/#6C7143;  
+	}
+	#nav #main-menu .sub-menu .menu-item,
+	#nav #main-menu .children .page_item { 
+		background-position:left center; 
+	}
+	#nav #main-menu li { 
+		background:url(../img/nav-sep.png) no-repeat right center; 
+	}
+	#nav #main-menu .sub-menu li,
+	#nav #main-menu .children li { 
+		background:none; 
+	}
+
+	.ie6 #nav #main-menu .current_page_item ul a { 
+		background:none; 
+	}
+	
+	.post .entry-date {
+	    border: solid 1px;
+		border-color: /*@DateBorder*/#363636;
+	    background: /*@DateBg*/#272A2A;
+	    color: /*@DateText*/#999999;
+	    box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.3);
+	}
+}
+
+
+@media only screen and (min-width: 720px) {
+	#featured-services p.description {
+		background-position:12px 18px;
+	}
+	
+	
+	
+	
+	
+}
