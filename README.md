@@ -28,12 +28,12 @@ Very easy & simple to setup. Any customization is done via wordpress customizer.
 
 ### Theme Features:
 
-	- Responsive design 
-	- Desktop, tablet, phone optimized. Using latest HTML5 tech but still with Old browser compatible, Best viewed from old IE6+ to modern mobile browsers
-	- Easy to setup, highly customized via wordpress customizer, Widget and menus
-	- Custom logo & favicons
-	- Several colors theme built in. Tons of color customization
-	- Google fonts , Layered PSD included, retina logo, And much more
+- Responsive design 
+- Desktop, tablet, phone optimized. Using latest HTML5 tech but still with Old browser compatible, Best viewed from old IE6+ to modern mobile browsers
+- Easy to setup, highly customized via wordpress customizer, Widget and menus
+- Custom logo & favicons
+- Several colors theme built in. Tons of color customization
+- Google fonts , Layered PSD included, retina logo, And much more
 
 *Retina ready elements are main logo, footer logo and default social media icons. They can be displayed natively ultra sharp. 
 Other elements not have built in retina support. But It still look good though. It also save the bandwidth.
